@@ -23,7 +23,7 @@ Do not forget to type "./" in front of the name.
 
 You can access cockpit at the following:
 
-http://<IP ADDRESS>:9090
+http://Your IP ADDRESS:9090
 
 Have fun and Enjoy!!!
 
